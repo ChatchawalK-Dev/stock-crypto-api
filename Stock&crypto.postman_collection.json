@@ -1,0 +1,52 @@
+{
+	"info": {
+		"_postman_id": "1759621a-7b37-4845-a66a-a73a1ea0a10d",
+		"name": "Stock&crypto",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40778283"
+	},
+	"item": [
+		{
+			"name": "Crypto",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/crypto/bitcoin",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"crypto",
+						"bitcoin"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Stock",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/stock/AAPL",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"stock",
+						"AAPL"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

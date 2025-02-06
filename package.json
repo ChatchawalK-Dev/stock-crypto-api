@@ -1,0 +1,19 @@
+{
+  "name": "stock-crypto-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "node-cache": "^5.1.2",
+    "yahoo-finance2": "^2.13.3",
+    "yfinance": "^0.0.6"
+  }
+}
