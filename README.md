@@ -2,11 +2,11 @@
 
 This is a Node.js API that fetches stock and cryptocurrency prices using Yahoo Finance API.
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 
-   git clone https://github.com/<your-username>/stock-crypto-api.git
+   git clone https://github.com/ChatchawalK-Dev/stock-crypto-api.git
 
 2. Install dependencies:
 
